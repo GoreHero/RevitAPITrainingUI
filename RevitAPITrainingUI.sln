@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAPITrainingUI", "RevitAPITrainingUI\RevitAPITrainingUI.csproj", "{EB3BAE86-D842-4DA2-B7AD-DC9F4DD0B486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAPILibrary", "..\RevitAPILibrary\RevitAPILibrary\RevitAPILibrary.csproj", "{57C1BA94-B701-4759-9DEB-AD0FC8238FD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAPI_W1_MadeButton", "RevitAPI_W1_MadeButton\RevitAPI_W1_MadeButton.csproj", "{477AC2C3-2155-4603-8B07-D5BD1BE66257}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAPI_W2_ChangeTypeWall", "RevitAPI_W2_ChangeTypeWall\RevitAPI_W2_ChangeTypeWall.csproj", "{6C4F8DA7-ADCC-46B9-9BF3-B061E6867AEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB3BAE86-D842-4DA2-B7AD-DC9F4DD0B486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB3BAE86-D842-4DA2-B7AD-DC9F4DD0B486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB3BAE86-D842-4DA2-B7AD-DC9F4DD0B486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB3BAE86-D842-4DA2-B7AD-DC9F4DD0B486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57C1BA94-B701-4759-9DEB-AD0FC8238FD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C1BA94-B701-4759-9DEB-AD0FC8238FD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C1BA94-B701-4759-9DEB-AD0FC8238FD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C1BA94-B701-4759-9DEB-AD0FC8238FD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{477AC2C3-2155-4603-8B07-D5BD1BE66257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477AC2C3-2155-4603-8B07-D5BD1BE66257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477AC2C3-2155-4603-8B07-D5BD1BE66257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477AC2C3-2155-4603-8B07-D5BD1BE66257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C4F8DA7-ADCC-46B9-9BF3-B061E6867AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C4F8DA7-ADCC-46B9-9BF3-B061E6867AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C4F8DA7-ADCC-46B9-9BF3-B061E6867AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C4F8DA7-ADCC-46B9-9BF3-B061E6867AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0D0CD88-F50A-4D37-BD73-04078D10B1B7}
+	EndGlobalSection
+EndGlobal
